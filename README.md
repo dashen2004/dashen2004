@@ -84,17 +84,17 @@
 <div>
   
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- svg -->
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="100" width="100" style="margin-right: 20px; margin-bottom: 0;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="100" width="100" style="margin-right: 20px; margin-bottom: 0;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="100" width="100" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
