@@ -29,7 +29,7 @@
 
 <h3 align="left">🌱 I’m currently a computer science student in UNNC.</h3>
 
-<h3 align="left">🔭 Shanghai Big Data | Algorithm Engineer of Big Data Department | Aug. 2024 – Oct. 2024</h3>
+<h3 align="left">🔭 Shanghai Big Data | Algorithm Engineer of Big Data Department | Aug. 2024 – Oct. 2024📌</h3>
 
 **Smart legislation**
 -	Data Acquisition and Preprocessing: Responsible for collecting corpus data using keyword engineering techniques and performing data cleaning and noise reduction using SQL and Pandas. Utilized intelligent operators to create and optimize data processing workflows, ensuring high quality and availability of data. After preprocessing, the data was randomly divided into training and testing sets, providing a foundation for model training and evaluation.
@@ -38,7 +38,7 @@
 -	Model Evaluation and Performance Testing: Conducted a comprehensive evaluation of the model using an independent test dataset to verify the model's generalization capabilities. Additionally, utilized the developed intelligent search application API to conduct real data retrieval tests, calculating performance metrics such as Hit Rate and Mean Reciprocal Rank (MRR) to quantitatively assess the actual performance of the model.
 
 
-<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology | Algorithm Engineer | Nov. 2024 – Present</h3>
+<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology | Algorithm Engineer | Nov. 2024 – Present📌</h3>
 
 **Smart Q&A for Medical Devices**
 -	Data Preprocessing and Document Parsing: Conducted comprehensive data cleaning and preprocessing on medical device documents, including text normalization, noise reduction, and document structure analysis. Developed and implemented document parsing pipelines to extract and organize relevant information, laying a solid foundation for downstream retrieval and question-answering tasks.
@@ -50,14 +50,14 @@
 -	Trajectory Extraction and Quantitative Evaluation: Developed a key-point trajectory extraction and alignment framework, converting per-frame joint coordinates into time series and applying Dynamic Time Warping (DTW) to compare action trajectories with reference standards. Generated standardized evaluation scores to quantitatively assess the accuracy and consistency of robot actions.
 
 
-<h3 align="left">👯 Drone Path Planning | Project Member | Jun. 2025-Present</h3>
+<h3 align="left">👯 Drone Path Planning | Project Member | Jun. 2025-Present📌</h3>
 
 **Supervisor: Prof. Huan Jin**
 -	Applied reinforcement learning methods—specifically Markov Decision Process (MDP) modeling and Q-learning algorithms—to optimize drone path planning and support automated agricultural operations.
 -	Still in progress
 
 
-<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | Project Leader | May. 2025-Present</h3>
+<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | Project Leader | May. 2025-Present📌</h3>
 
 **Supervisor: Dr. Fiseha Berhanu Tesema**
 -	Established a technical solution incorporating the dual-stream CNN-Transformer network, Laplacian pyramid module, and boundary-aware loss function to improve segmentation accuracy and real-time performance for small polyps with an image area less than 2.5%
