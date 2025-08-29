@@ -29,6 +29,10 @@
 
 <h3 align="left">🌱 I’m currently a computer science student in UNNC.</h3>
 
+<a href="https://www.shdata.com/" target="_blank">
+  <img align="right" width="121" src="https://cdn.shdata.com/images/globals/logo-w.png" />
+</a>
+
 <h3 align="left">🔭 Shanghai Big Data | Algorithm Engineer of Big Data Department | Aug. 2024 – Oct. 2024📌</h3>
 
 **Smart legislation**
@@ -37,6 +41,9 @@
 -	Data Source Configuration and Workflow Implementation: Configured internal structured data storage using SQL database connection technologies, ensuring effective integration and application of data. Designed and implemented a workflow for generating and managing feature vectors, supporting the functionality requirements of the intelligent search application. After successful workflow execution, participated in the deployment and launch of the intelligent search application.
 -	Model Evaluation and Performance Testing: Conducted a comprehensive evaluation of the model using an independent test dataset to verify the model's generalization capabilities. Additionally, utilized the developed intelligent search application API to conduct real data retrieval tests, calculating performance metrics such as Hit Rate and Mean Reciprocal Rank (MRR) to quantitatively assess the actual performance of the model.
 
+<a href="https://www.sensetime.com/cn" target="_blank">
+  <img align="right" width="144" src="https://static.sensetime.com/images/st_logo_black.svg" />
+</a>
 
 <h3 align="left">🌱 Shanghai SenseTime Intelligent Technology | Algorithm Engineer | Nov. 2024 – Present📌</h3>
 
@@ -49,15 +56,17 @@
 -	Action Segmentation and Video Processing: Designed and implemented an action segmentation module to automatically identify the start and end frames of target actions within input videos, extracting complete action segments for downstream analysis.
 -	Trajectory Extraction and Quantitative Evaluation: Developed a key-point trajectory extraction and alignment framework, converting per-frame joint coordinates into time series and applying Dynamic Time Warping (DTW) to compare action trajectories with reference standards. Generated standardized evaluation scores to quantitatively assess the accuracy and consistency of robot actions.
 
+<a href="https://www.nottingham.edu.cn/en/index.aspx" target="_blank">
+  <img align="right" width="196" src="https://www.nottingham.ac.uk/SiteElements/Images/uon-logo/UoN-Nottingham-Blue-mobile.svg" />
+</a>
 
-<h3 align="left">👯 Drone Path Planning | Project Member | Jun. 2025-Present📌</h3>
+<h3 align="left">👯 Drone Path Planning | Jun. 2025-Present📌</h3>
 
 **Supervisor: Prof. Huan Jin**
 -	Applied reinforcement learning methods—specifically Markov Decision Process (MDP) modeling and Q-learning algorithms—to optimize drone path planning and support automated agricultural operations.
 -	Still in progress
 
-
-<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | Project Leader | May. 2025-Present📌</h3>
+<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
 
 **Supervisor: Dr. Fiseha Berhanu Tesema**
 -	Established a technical solution incorporating the dual-stream CNN-Transformer network, Laplacian pyramid module, and boundary-aware loss function to improve segmentation accuracy and real-time performance for small polyps with an image area less than 2.5%
