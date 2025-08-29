@@ -81,11 +81,9 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
-
-  <!-- gif -->
+<div>
+  
+<!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
@@ -97,7 +95,11 @@
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="100" width="100" style="margin-right: 20px; margin-bottom: 0;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="100" width="100" style="margin-right: 20px; margin-bottom: 0;" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="100" width="100" style="margin-right: 20px; margin-bottom: 0;" />
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
 </div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&show_icons=true&locale=en&layout=compact" alt="dashen2004" /></p>
 
