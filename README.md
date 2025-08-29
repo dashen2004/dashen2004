@@ -1,7 +1,7 @@
 <div align="center"> 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%A4%A7%E6%BB%A1%E5%88%99%E6%BA%A2%EF%BC%8C%E5%B0%8F%E6%BB%A1%E5%88%99%E5%AE%89%EF%BC%8C%E4%BA%BA%E7%94%9F%E5%B0%8F%E6%BB%A1%E8%83%9C%E4%B8%87%E5%85%A8%EF%BC%81](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Stay%20Hungry%20Stay%20Foolish%EF%BC%81" alt="Typing SVG" /></a>
-  </div>
+   <!-- dynamic typing effect 动态打字效果 -->
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Stay%20Hungry%20Stay%20Foolish%EF%BC%81&center=true&size=27)](https://git.io/typing-svg)
 
   <div align="center">
     <picture>
@@ -100,9 +100,10 @@
 <img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
 </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&show_icons=true&locale=en&layout=compact" alt="dashen2004" /></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashen2004&show_icons=true&locale=en" alt="dashen2004" /></p>
 
@@ -140,3 +141,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
