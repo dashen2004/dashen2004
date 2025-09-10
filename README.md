@@ -63,7 +63,7 @@
   <img align="right" width="196" src="https://www.nottingham.ac.uk/SiteElements/Images/uon-logo/UoN-Nottingham-Blue-mobile.svg" />
 </a>
 
-<h3 align="left">👯 Drone Path Planning | Jun. 2025-Present📌</h3>
+<h3 align="left">👯 Reinforcement Learning-Based Path Planning for Hybrid Truck-UAV Delivery Systems | Jun. 2025-Present📌</h3>
 
 **Supervisor: Prof. Huan Jin**
 -	Path Planning Environment Development: Developed a large-scale collision-free path planning framework for urban hybrid truck-UAV delivery systems, addressing UAV battery limits and traffic delays with the Solomon benchmark dataset.
