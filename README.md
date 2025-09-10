@@ -66,15 +66,17 @@
 <h3 align="left">👯 Drone Path Planning | Jun. 2025-Present📌</h3>
 
 **Supervisor: Prof. Huan Jin**
--	Applied reinforcement learning methods—specifically Markov Decision Process (MDP) modeling and Q-learning algorithms—to optimize drone path planning and support automated agricultural operations.
+-	Path Planning Environment Development: Developed a large-scale collision-free path planning framework for urban hybrid truck-UAV delivery systems, addressing UAV battery limits and traffic delays with the Solomon benchmark dataset.
+-	Reinforcement Learning Algorithm Design: Formulated a custom Markov Decision Process (MDP) with state variables and real-world constraints, and integrated/adapted Proximal Policy Optimization (PPO) algorithms to optimize UAV-truck path coordination.
+-	Data Pipeline and Model Enhancement: Built data preprocessing pipelines for high-quality RL training datasets, and fused heuristic rules with RL policies to improve model efficiency and scalability.
 -	Still in progress
 
 <h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
 
 **Supervisor: Dr. Fiseha Berhanu Tesema**
--	Established a technical solution incorporating the dual-stream CNN-Transformer network, Laplacian pyramid module, and boundary-aware loss function to improve segmentation accuracy and real-time performance for small polyps with an image area less than 2.5%
--	Downloaded and cleaned the Kvasir SEG and ETIS LaribPolypDB datasets, completed image size normalization, polyp annotation screening, and small polyp subset partitioning; encoded and debugged various sub-modules of the network (CNN stream, Transformer stream, edge separation, attention fusion, loss function).
--	Organized and conducted comparative experiments, calculated key indicators such as Dice and IoU, drew performance curves, and wrote experimental result analysis; evaluated the model's inference speed, optimized deployment processes, and ensured clinical usability based on endoscopic videos or simulated scenarios
+-	Model Development and Implementation: Built a small polyp segmentation model on the OpenMMLab framework, integrating a dual-stream CNN-Transformer architecture with a Laplacian pyramid module and boundary-aware loss; implemented and debugged key sub-modules including CNN stream, Transformer stream, edge separation, attention fusion, and loss function.
+-	Dataset Preparation: Curated and preprocessed the Kvasir-SEG and ETIS-LaribPolypDB datasets, including normalization, annotation screening, and small-polyp subset partitioning.
+-	Performance Evaluation: Conducted comparative experiments, validating the model’s performance using Dice, IoU, and inference speed metrics.
 -	Still in progress
 
 <!-- ########################################## 分割 ########################################## -->
