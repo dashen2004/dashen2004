@@ -1,6 +1,6 @@
 # Profile artwork and design notes
 
-The research banner and eight project cards are original, repository-local SVG artwork. Each has a light and dark version, chosen by README `picture` elements. Edit both variants when updating project information. The complete methods, metrics, publication status, and software copyright information remain in the expandable project notes.
+The research banner and eight project cards are original, repository-local SVG artwork. Each has a light and dark version, chosen by README `picture` elements. Edit both variants when updating project information. The Selected Work cards link directly to project repositories for detailed methods and results. Education, work experience, and honors have separate sections; skills and languages remain under Technical Toolkit.
 
 The contribution snake is generated daily by `.github/workflows/profile-snake.yml`, using the repository's built-in GitHub token. Generated light and dark SVGs are published to the `output` branch. Other original animations, tool icons, decorative wings, and statistics widgets remain in the README.
 

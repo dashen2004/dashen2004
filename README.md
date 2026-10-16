@@ -37,8 +37,9 @@
 
 <p align="center">
   <a href="#selected-work">Selected Work</a> &nbsp;·&nbsp;
-  <a href="#background">Background</a> &nbsp;·&nbsp;
-  <a href="#project-notes">Project Notes</a> &nbsp;·&nbsp;
+  <a href="#education">Education</a> &nbsp;·&nbsp;
+  <a href="#work-experience">Experience</a> &nbsp;·&nbsp;
+  <a href="#honors--activities">Honors</a> &nbsp;·&nbsp;
   <a href="#technical-toolkit">Toolkit</a> &nbsp;·&nbsp;
   <a href="#github-activity">Activity</a>
 </p>
@@ -81,34 +82,30 @@
   </a>
 </p>
 
-<p align="center"><a href="https://doi.org/10.3390/drones10070477">📄 Drones paper</a> &nbsp;·&nbsp; <a href="#project-notes">Methods &amp; results</a> &nbsp;·&nbsp; <a href="mailto:youyaog@andrew.cmu.edu">Get in touch</a></p>
+<p align="center"><a href="https://doi.org/10.3390/drones10070477">📄 Drones paper</a> &nbsp;·&nbsp; <a href="mailto:youyaog@andrew.cmu.edu">Get in touch</a></p>
 
-## Background
+## Education
 
 <a href="https://www.cmu.edu/">
-  <img align="right" width="120" src="./assets/logos/cmu-red.png" alt="Carnegie Mellon University — red university logo" />
+  <img align="right" width="96" src="./assets/logos/cmu-red.png" alt="Carnegie Mellon University — red university logo" />
 </a>
 
-<h3 align="left">🌱 Carnegie Mellon University</h3>
+<h3 align="left">🎓 Carnegie Mellon University</h3>
 
 <p><strong>Master of Information Technology Strategy</strong><br><em>Expected Jan. 2029</em></p>
 
-**University of Nottingham | BSc (Hons) in Computer Science | Jul. 2026**
+<a href="https://www.nottingham.edu.cn/en/index.aspx">
+  <img align="right" width="176" src="./assets/logos/nottingham.svg" alt="University of Nottingham" />
+</a>
+
+<h3 align="left">🎓 University of Nottingham</h3>
+
+<p><strong>BSc (Hons) in Computer Science</strong><br><em>Jul. 2026</em></p>
 
 - GPA: **3.83/4.0**.
 - Selected Courses: Machine Learning, Computer Vision, Artificial Intelligence Methods, Algorithms, Data Structures and Efficiency.
 
-<a href="https://www.shdata.com/">
-  <img align="right" width="160" src="./assets/logos/shdata.svg" alt="Shanghai Big Data / 上海大数据股份" />
-</a>
-
-<h3 align="left">🔭 Shanghai Big Data</h3>
-
-<p><strong>Algorithm Engineer Intern</strong><br><em>Aug. 2024 – Oct. 2024</em></p>
-
-**Smart Legislation**
-
-- Intelligent Legal Retrieval: Developed an intelligent legal retrieval system for a Smart Legislation platform, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
+## Work Experience
 
 <a href="https://www.sensetime.com/cn">
   <picture>
@@ -135,72 +132,29 @@
 
 - Domain-Specific Agent Exploration: Contributed to the development of a government administration system for Chenggong, exploring a domain-specific agent for personnel, material, and operations management by connecting natural-language interaction with government workflows to support information retrieval and business coordination.
 
-## Project Notes
-
-<details>
-<summary><b>Explore the methods, results, and project links</b></summary>
-
-<a href="https://www.nottingham.edu.cn/en/index.aspx">
-  <img align="right" width="176" src="./assets/logos/nottingham.svg" alt="University of Nottingham" />
+<a href="https://www.shdata.com/">
+  <img align="right" width="160" src="./assets/logos/shdata.svg" alt="Shanghai Big Data / 上海大数据股份" />
 </a>
 
-<h3 align="left">👯 Reinforcement Learning-Based Hybrid Truck-Drone Delivery Optimization | Jun. 2025 – Jun. 2026📌</h3>
+<h3 align="left">🔭 Shanghai Big Data</h3>
 
-**Supervisor: Prof. Huan Jin**
+<p><strong>Algorithm Engineer Intern</strong><br><em>Aug. 2024 – Oct. 2024</em></p>
 
-- Reinforcement Learning Framework: Formulated a **PPO-based decision framework** for dynamic truck-drone coordination.
-- Performance Evaluation: Reduced delivery costs and demonstrated scalability across **Solomon benchmark instances**.
-- Publication: **[Drones, 2026](https://doi.org/10.3390/drones10070477)**.
-- Source Code: [GitHub](https://github.com/dashen2004/Reinforcement-Learing-Baesd-HybridTruck-Drone-Delivery-Optimization).
+**Smart Legislation**
 
-<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025 – Present📌</h3>
+- Intelligent Legal Retrieval: Developed an intelligent legal retrieval system for a Smart Legislation platform, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
 
-**Supervisor: Prof. Fiseha Berhanu Tesema**
+<h3 align="left">🎵 UNNC Music Association</h3>
 
-- Model Development and Implementation: Designed a **Swin Transformer-based dual-stream segmentation model** with Laplacian edge extraction and cross-attention fusion.
-- Performance Evaluation: Achieved **0.92 mDice on Kvasir-SEG**, with improved boundary detection for small polyps.
-- Source Code: [GitHub](https://github.com/dashen2004/Edge-Enhanced-Dual-Stream-Transformer-for-Small-Polyp-Segmentation).
-- Still in progress.
+<p><strong>Chairman of the Board</strong><br><em>May. 2022 – May. 2024</em></p>
 
-<h3 align="left">🧠 GP2PL: Certified BDI Plan Libraries from Generalized Planning Evidence | Oct. 2025 – Present📌</h3>
+- Led association operations and coordinated campus music events, performers, and external partners.
 
-**Manuscript submitted to the International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2027)**
-
-- Agent Planning Framework: Proposed GP2PL, an agent planning framework that automatically compiles generalized planning behavior and domain knowledge into reusable, certified **AgentSpeak(L) BDI plan libraries**.
-- Temporal Goal Composition: Used **LTLf-DFA controllers** to compose achievement goals and temporally extended goals.
-- Performance Evaluation: Achieved **98.7% held-out achievement validity across 16 domains**.
-- Source Code: [GitHub](https://github.com/daidaibunny/llm-bdi-pipeline).
-
-<h3 align="left">💡 Logic Diagram Generation Software – Logify | Sept. 2024 – May. 2025📌</h3>
-
-- Model Development and Integration: Developed an LLM-powered diagram generation platform by fine-tuning **Qwen2.5-Coder-7B with LoRA** and integrating **Flask and Mermaid**.
-- Performance Evaluation: Achieved **up to 89% accuracy in converting natural-language descriptions into structured diagrams**.
-- Software Copyright: **Logify – Logic Diagram Generation Software, V1.0** | Registration No. **2025SR2334315** | **Dec. 2025** | Copyright Holder: **UNNC**.
-- Source Code: [GitHub](https://github.com/dashen2004/Logify).
-
-</details>
-
-<details>
-<summary><b>Honors, leadership, and skills</b></summary>
-
-<h3 align="left">🏆 Honors and Awards📌</h3>
+## Honors & Activities
 
 - **Successful Participant**, Mathematical Contest in Modeling (MCM) | **2025**.
 - **Meritorious Award**, Shuwei Cup International Mathematical Contest in Modeling | **2024**.
-
-<h3 align="left">🎵 Leadership📌</h3>
-
 - **Student Representative**, Learning Community Forum (LCF), UNNC | **2024 – 2025**: Represented student perspectives and provided feedback on education and student experience initiatives.
-- **Chairman of the Board**, UNNC Music Association | **May. 2022 – May. 2024**: Led association operations and coordinated campus music events, performers, and external partners.
-
-<h3 align="left">🛠️ Skills📌</h3>
-
-- **Programming Languages:** Python, SQL, C/C++, Java.
-- **AI and Machine Learning:** PyTorch, TensorFlow, scikit-learn, RAG, PPO, LoRA.
-- **Frameworks and Tools:** Pandas, Flask, Django, Docker, Git, Linux, MySQL, MMSegmentation, LaTeX.
-- **Languages:** Mandarin Chinese (Native), Shanghainese (Native), English (Fluent; TOEFL 104).
-
-</details>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -244,6 +198,17 @@
 </p>
 <!-- CV toolkit additions:end -->
 </div>
+
+<details>
+<summary><b>Skills &amp; languages</b></summary>
+
+- **Programming Languages:** Python, SQL, C/C++, Java.
+- **AI and Machine Learning:** PyTorch, TensorFlow, scikit-learn, RAG, PPO, LoRA.
+- **Frameworks and Tools:** Pandas, Flask, Django, Docker, Git, Linux, MySQL, MMSegmentation, LaTeX.
+- **Languages:** Mandarin Chinese (Native), Shanghainese (Native), English (Fluent; TOEFL 104).
+
+</details>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
