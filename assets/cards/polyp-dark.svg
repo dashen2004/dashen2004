@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Polyp Segmentation</title>
+<desc id="desc">Polyp Segmentation. Swin Transformer + edge fusion. 0.92 mDice. On Kvasir-SEG · ongoing research. ONGOING. Swin   /   Laplacian edges   /   Cross-attention.</desc>
+<defs>
+  <linearGradient id="glow" x1="437" y1="54" x2="620" y2="221" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#51CDD2" stop-opacity=".09"/><stop offset="1" stop-color="#51CDD2" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="clip"><rect x=".75" y=".75" width="638.5" height="298.5" rx="21"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="640" height="300" rx="22" fill="#10192B"/>
+  <path d="M24 1 H202" stroke="#51CDD2" stroke-width="3" opacity=".8"/>
+  <circle cx="552" cy="140" r="109" fill="url(#glow)"/>
+  <circle cx="555" cy="145" r="91" stroke="#51CDD2" stroke-opacity=".055"/>
+  <circle cx="555" cy="145" r="64" stroke="#51CDD2" stroke-opacity=".045"/>
+  <path d="M436 73 H446 M441 68 V78 M607 226 H617 M612 221 V231" stroke="#51CDD2" stroke-opacity=".3" stroke-width="1.3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="32" y="37" font-size="12" font-weight="700" letter-spacing="1.5" fill="#51CDD2">COMPUTER VISION</text>
+    <rect x="546.25" y="21" width="61.75" height="25" rx="12.5" fill="#51CDD2" fill-opacity=".085"/>
+    <text x="577.125" y="37.5" font-size="10.5" font-weight="700" letter-spacing=".4" text-anchor="middle" fill="#51CDD2">ONGOING</text>
+    <text x="32" y="91" font-size="29" font-weight="700" letter-spacing="-.7" fill="#EEF3FC">Polyp Segmentation</text>
+    <text x="32" y="123" font-size="17.5" fill="#A2B2CA">Swin Transformer + edge fusion</text>
+    <text x="32" y="193" font-size="38" font-weight="700" letter-spacing="-1.2" fill="#51CDD2">0.92 mDice</text>
+    <text x="33" y="220" font-size="14.5" fill="#A2B2CA">On Kvasir-SEG · ongoing research</text>
+    <path d="M32 244 H608" stroke="#23334D"/>
+    <circle cx="37" cy="271" r="3.5" fill="#51CDD2"/>
+    <text x="49" y="276" font-size="13" font-weight="500" fill="#A2B2CA">Swin   /   Laplacian edges   /   Cross-attention</text>
+    <text x="608" y="276" font-size="12" font-weight="600" text-anchor="end" fill="#51CDD2" opacity=".55">02</text>
+  </g>
+
+  <path d="M495 107 H560 V140" fill="none" stroke="#51CDD2" stroke-width="2" opacity=".55"/>
+  <path d="M510 176 H487 V142" fill="none" stroke="#51CDD2" stroke-width="2" stroke-dasharray="4 5" opacity=".55"/>
+  <g transform="translate(451 82)">
+    <rect width="75" height="76" rx="12" fill="#152138" stroke="#51CDD2" stroke-width="1.6"/>
+    <path d="M25 8 V68 M50 8 V68 M8 25 H67 M8 50 H67" stroke="#23334D" stroke-width="1.4"/>
+    <path d="M20 32 C22 18 39 18 48 25 C65 31 58 55 43 58 C27 66 13 47 20 32Z" fill="#51CDD2" opacity=".15"/>
+    <path d="M20 32 C22 18 39 18 48 25 C65 31 58 55 43 58 C27 66 13 47 20 32Z" fill="none" stroke="#51CDD2" stroke-width="2"/>
+    <circle cx="26" cy="30" r="3" fill="#51CDD2"/><circle cx="53" cy="43" r="3" fill="#51CDD2"/>
+  </g>
+  <g transform="translate(531 134)">
+    <rect width="75" height="76" rx="12" fill="#152138" stroke="#51CDD2" stroke-width="1.6"/>
+    <path d="M20 30 C21 17 40 18 48 25 C64 31 57 56 42 59 C27 65 12 44 20 30Z" fill="#51CDD2" opacity=".2"/>
+    <path d="M20 30 C21 17 40 18 48 25 C64 31 57 56 42 59 C27 65 12 44 20 30Z" fill="none" stroke="#51CDD2" stroke-width="2.5" stroke-dasharray="3 3"/>
+    <path d="M28 41 L35 48 L48 34" fill="none" stroke="#51CDD2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="560" cy="112" r="4" fill="#10192B" stroke="#51CDD2" stroke-width="1.6"/>
+ 
+</g>
+<rect x=".75" y=".75" width="638.5" height="298.5" rx="21" stroke="#29384F" stroke-width="1.5"/>
+</svg>

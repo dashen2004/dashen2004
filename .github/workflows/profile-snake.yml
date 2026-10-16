@@ -1,0 +1,45 @@
+name: Contribution Snake
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-snake.yml
+  schedule:
+    # Daily at 08:17 China Standard Time (00:17 UTC).
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-snake-output
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
+          jekyll: false
+          commit_message: 'Update contribution snake animations'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

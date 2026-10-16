@@ -27,8 +27,63 @@
   
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/research-banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/research-banner-light.svg" />
+    <img width="100%" src="./assets/profile/research-banner-light.svg" alt="Research in motion — agent planning, reinforcement learning and medical vision" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="#selected-work">Selected Work</a> &nbsp;·&nbsp;
+  <a href="#background">Background</a> &nbsp;·&nbsp;
+  <a href="#project-notes">Project Notes</a> &nbsp;·&nbsp;
+  <a href="#technical-toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#github-activity">Activity</a>
+</p>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+## Selected Work
+
+<p align="center">Four projects across planning, perception, and intelligent systems. Open a card to explore the code.</p>
+
+<p align="center">
+  <a href="https://github.com/dashen2004/Reinforcement-Learing-Baesd-HybridTruck-Drone-Delivery-Optimization">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/truck-drone-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/truck-drone-light.svg" />
+      <img width="400" src="./assets/cards/truck-drone-light.svg" alt="Truck–Drone Delivery — PPO coordination, published in Drones (2026)" />
+    </picture>
+  </a>
+  <a href="https://github.com/dashen2004/Edge-Enhanced-Dual-Stream-Transformer-for-Small-Polyp-Segmentation">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/polyp-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/polyp-light.svg" />
+      <img width="400" src="./assets/cards/polyp-light.svg" alt="Small Polyp Segmentation — 0.92 mDice on Kvasir-SEG; ongoing" />
+    </picture>
+  </a>
+  <a href="https://github.com/daidaibunny/llm-bdi-pipeline">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/gp2pl-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/gp2pl-light.svg" />
+      <img width="400" src="./assets/cards/gp2pl-light.svg" alt="GP2PL — 98.7% held-out achievement validity across 16 domains; submitted to AAMAS 2027" />
+    </picture>
+  </a>
+  <a href="https://github.com/dashen2004/Logify">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/logify-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/logify-light.svg" />
+      <img width="400" src="./assets/cards/logify-light.svg" alt="Logify — up to 89% diagram accuracy, Qwen2.5-Coder, LoRA, Flask and Mermaid" />
+    </picture>
+  </a>
+</p>
+
+<p align="center"><a href="https://doi.org/10.3390/drones10070477">📄 Drones paper</a> &nbsp;·&nbsp; <a href="#project-notes">Methods &amp; results</a> &nbsp;·&nbsp; <a href="mailto:youyaog@andrew.cmu.edu">Get in touch</a></p>
+
+## Background
 
 <a href="https://www.cmu.edu/">
   <img align="right" width="120" src="./assets/logos/cmu-red.png" alt="Carnegie Mellon University — red university logo" />
@@ -80,6 +135,11 @@
 
 - Domain-Specific Agent Exploration: Contributed to the development of a government administration system for Chenggong, exploring a domain-specific agent for personnel, material, and operations management by connecting natural-language interaction with government workflows to support information retrieval and business coordination.
 
+## Project Notes
+
+<details>
+<summary><b>Explore the methods, results, and project links</b></summary>
+
 <a href="https://www.nottingham.edu.cn/en/index.aspx">
   <img align="right" width="176" src="./assets/logos/nottingham.svg" alt="University of Nottingham" />
 </a>
@@ -118,6 +178,11 @@
 - Software Copyright: **Logify – Logic Diagram Generation Software, V1.0** | Registration No. **2025SR2334315** | **Dec. 2025** | Copyright Holder: **UNNC**.
 - Source Code: [GitHub](https://github.com/dashen2004/Logify).
 
+</details>
+
+<details>
+<summary><b>Honors, leadership, and skills</b></summary>
+
 <h3 align="left">🏆 Honors and Awards📌</h3>
 
 - **Successful Participant**, Mathematical Contest in Modeling (MCM) | **2025**.
@@ -135,11 +200,15 @@
 - **Frameworks and Tools:** Pandas, Flask, Django, Docker, Git, Linux, MySQL, MMSegmentation, LaTeX.
 - **Languages:** Mandarin Chinese (Native), Shanghainese (Native), English (Fluent; TOEFL 104).
 
+</details>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
+## Technical Toolkit
+
+<p>Tools I build with, and technologies I explore.</p>
+<div align="center">
   
 <!-- gif -->
 <img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
@@ -179,19 +248,18 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+## GitHub Activity
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact" />
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Most-used languages on GitHub" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Most-used languages on GitHub" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en" />
-    <img width="480" src="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en" alt="Youyao Gao's GitHub statistics" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en" alt="Youyao Gao's GitHub statistics" />
   </picture>
 </p>
 
@@ -215,6 +283,16 @@
   </picture>
 </p>
 
+### A Year in Motion
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashen2004/dashen2004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashen2004/dashen2004/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/dashen2004/dashen2004/output/github-snake.svg" alt="An animated snake moving through my GitHub contribution calendar" />
+  </picture>
+</p>
+
 <!-- just img 图片 -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
@@ -222,3 +300,5 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<p align="center"><a href="mailto:youyaog@andrew.cmu.edu">Let’s talk research &amp; ideas</a> &nbsp;·&nbsp; <a href="#hi--im-youyao-gao">Back to top ↑</a></p>
