@@ -142,6 +142,24 @@
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
+
+<!-- CV toolkit additions:start -->
+<p><strong>Frameworks &amp; Tools</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&amp;logo=mermaid&amp;logoColor=white" alt="Mermaid" />
+  <img src="https://img.shields.io/badge/MMSegmentation-1677FF?style=for-the-badge" alt="MMSegmentation" />
+</p>
+<p><strong>AI Methods &amp; Agent Planning</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="Retrieval-Augmented Generation (RAG)" />
+  <img src="https://img.shields.io/badge/PPO-F97316?style=for-the-badge" alt="Proximal Policy Optimization (PPO)" />
+  <img src="https://img.shields.io/badge/LoRA-DC2626?style=for-the-badge" alt="Low-Rank Adaptation (LoRA)" />
+  <img src="https://img.shields.io/badge/AgentSpeak%28L%29-7C3AED?style=for-the-badge" alt="AgentSpeak(L)" />
+  <img src="https://img.shields.io/badge/LTLf--DFA-0F766E?style=for-the-badge" alt="LTLf-DFA controllers" />
+</p>
+<!-- CV toolkit additions:end -->
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
