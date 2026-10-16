@@ -1,6 +1,14 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/research-banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/research-banner-light.svg" />
+    <img width="100%" src="./assets/profile/research-banner-light.svg" alt="Research in motion — agent planning, reinforcement learning and medical vision" />
+  </picture>
+</p>
+
 <div align="center">
 
-  <h1 align="center">Hi 👋, I'm Youyao Gao.</h1>
+  <h1 align="center">Hi, my name is Youyao Gao.</h1>
 
   <!-- profile logo 个人资料徽标 -->
 
@@ -13,17 +21,6 @@
   </div> 
   
 </div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/research-banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/research-banner-light.svg" />
-    <img width="100%" src="./assets/profile/research-banner-light.svg" alt="Research in motion — agent planning, reinforcement learning and medical vision" />
-  </picture>
-</p>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## Education
 
@@ -231,4 +228,4 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<p align="center"><a href="mailto:youyaog@andrew.cmu.edu">Let’s talk research &amp; ideas</a> &nbsp;·&nbsp; <a href="#hi--im-youyao-gao">Back to top ↑</a></p>
+<p align="center"><a href="mailto:youyaog@andrew.cmu.edu">Let’s talk research &amp; ideas</a> &nbsp;·&nbsp; <a href="#hi-my-name-is-youyao-gao">Back to top ↑</a></p>
