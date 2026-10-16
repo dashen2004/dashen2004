@@ -1,148 +1,124 @@
-<div align="center"> 
-   <!-- dynamic typing effect 动态打字效果 -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Stay%20Hungry%20Stay%20Foolish%EF%BC%81&center=true&size=27)](https://git.io/typing-svg)
-
-  <div align="center">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    </picture>
-  </div>
-  
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-  <h1 align="center">Hi 👋, I'm Youyao Gao.</h1>
-
-  <!-- profile logo 个人资料徽标 -->
-
-  <div>
-    <img src="https://img.shields.io/badge/WeChat-dashen_2004-07c180" />&emsp;
-    <img src="https://img.shields.io/badge/QQ-17622027900-green?logo=tencentqq" />&emsp;
-    <a href="https://space.bilibili.com/485774598?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-醒醒啊向前冲-ff69b4" /></a>&emsp;
-    <a href="https://www.youtube.com/@高佑耀"><img src="https://img.shields.io/badge/YouTube-高佑耀-FF0000?logo=youtube&logoColor=white" /></a>&emsp;
-    <a href="mailto:youyoagao@gmail.com"><img src="https://img.shields.io/badge/Gmail-youyaogao-EA4335?logo=gmail&logoColor=white" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=dashen2004&label=Profile%20views&color=0e75b6&style=flat" alt="dashen2004" /> </p>
-  </div> 
-  
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<h3 align="left">🌱 I’m currently a computer science student in UNNC.</h3>
-
-<a href="https://www.shdata.com/" target="_blank">
-  <img align="right" width="121" src="https://cdn.shdata.com/images/globals/logo-w.png" />
-</a>
-
-<h3 align="left">🔭 Shanghai Big Data | Algorithm Engineer of Big Data Department | Aug. 2024 – Oct. 2024📌</h3>
-
-**Smart legislation**
--	Data Acquisition and Preprocessing: Responsible for collecting corpus data using keyword engineering techniques and performing data cleaning and noise reduction using SQL and Pandas. Utilized intelligent operators to create and optimize data processing workflows, ensuring high quality and availability of data. After preprocessing, the data was randomly divided into training and testing sets, providing a foundation for model training and evaluation.
--	Model Selection and Optimization: Selected the BGE-M3 Embedding model, specifically optimized for text and content retrieval. Implemented cross-validation and used grid search and random search methods for hyperparameter tuning, effectively enhancing the model's retrieval performance and identifying the optimal model configuration.
--	Data Source Configuration and Workflow Implementation: Configured internal structured data storage using SQL database connection technologies, ensuring effective integration and application of data. Designed and implemented a workflow for generating and managing feature vectors, supporting the functionality requirements of the intelligent search application. After successful workflow execution, participated in the deployment and launch of the intelligent search application.
--	Model Evaluation and Performance Testing: Conducted a comprehensive evaluation of the model using an independent test dataset to verify the model's generalization capabilities. Additionally, utilized the developed intelligent search application API to conduct real data retrieval tests, calculating performance metrics such as Hit Rate and Mean Reciprocal Rank (MRR) to quantitatively assess the actual performance of the model.
-
-<a href="https://www.sensetime.com/cn" target="_blank">
-  <img align="right" width="144" src="https://static.sensetime.com/images/st_logo_black.svg" />
-</a>
-
-<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology | Algorithm Engineer | Nov. 2024 – Present📌</h3>
-
-**Smart Q&A for Medical Devices**
--	Data Preprocessing and Document Parsing: Conducted comprehensive data cleaning and preprocessing on medical device documents, including text normalization, noise reduction, and document structure analysis. Developed and implemented document parsing pipelines to extract and organize relevant information, laying a solid foundation for downstream retrieval and question-answering tasks.
--	Model Evaluation and System Optimization: Performed systematic evaluation of the Retrieval-Augmented Generation (RAG) model, utilizing metrics such as answer accuracy and response relevance. Conducted iterative testing and parameter tuning to enhance the overall performance, reliability, and real-world applicability of the intelligent Q&A system for medical devices.
-
-**Key Point Evaluation for Embodied Intelligent Robots**
--	Key-Point Detection and Model Customization: Customized and fine-tuned the OpenPose model from the CMU Perceptual Computing Lab to enable automatic detection and precise extraction of robot joint coordinates from video frames.
--	Action Segmentation and Video Processing: Designed and implemented an action segmentation module to automatically identify the start and end frames of target actions within input videos, extracting complete action segments for downstream analysis.
--	Trajectory Extraction and Quantitative Evaluation: Developed a key-point trajectory extraction and alignment framework, converting per-frame joint coordinates into time series and applying Dynamic Time Warping (DTW) to compare action trajectories with reference standards. Generated standardized evaluation scores to quantitatively assess the accuracy and consistency of robot actions.
-
-<a href="https://www.nottingham.edu.cn/en/index.aspx" target="_blank">
-  <img align="right" width="196" src="https://www.nottingham.ac.uk/SiteElements/Images/uon-logo/UoN-Nottingham-Blue-mobile.svg" />
-</a>
-
-<h3 align="left">👯 Reinforcement Learning-Based Path Planning for Hybrid Truck-UAV Delivery Systems | Jun. 2025-Present📌</h3>
-
-**Supervisor: Prof. Huan Jin**
--	Path Planning Environment Development: Developed a large-scale collision-free path planning framework for urban hybrid truck-UAV delivery systems, addressing UAV battery limits and traffic delays with the Solomon benchmark dataset.
--	Reinforcement Learning Algorithm Design: Formulated a custom Markov Decision Process (MDP) with state variables and real-world constraints, and integrated/adapted Proximal Policy Optimization (PPO) algorithms to optimize UAV-truck path coordination.
--	Data Pipeline and Model Enhancement: Built data preprocessing pipelines for high-quality RL training datasets, and fused heuristic rules with RL policies to improve model efficiency and scalability.
--	Still in progress
-
-<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
-
-**Supervisor: Prof. Fiseha Berhanu Tesema**
--	Model Development and Implementation: Built a small polyp segmentation model on the OpenMMLab framework, integrating a dual-stream CNN-Transformer architecture with a Laplacian pyramid module and boundary-aware loss; implemented and debugged key sub-modules including CNN stream, Transformer stream, edge separation, attention fusion, and loss function.
--	Dataset Preparation: Curated and preprocessed the Kvasir-SEG and ETIS-LaribPolypDB datasets, including normalization, annotation screening, and small-polyp subset partitioning.
--	Performance Evaluation: Conducted comparative experiments, validating the model’s performance using Dice, IoU, and inference speed metrics.
--	Still in progress
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  
-<!-- gif -->
-<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&show_icons=true&locale=en&layout=compact" alt="dashen2004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashen2004&show_icons=true&locale=en" alt="dashen2004" /></p>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div style="display:flex; justify-content:center; position:relative;">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png"
-       width="144"
-       style="position:absolute; top:0; left:0;" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=dark&hide_border=true"
-         alt="GitHub Streak Stats" />
-  </picture>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png"
-       width="144"
-       style="position:absolute; top:0; right:0;" />
-</div>
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
-<!-- just img 图片 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+<h1>Hi, I'm Youyao Gao 高佑耀 👋</h1>
+
+<p><strong>AI Agents · Reinforcement Learning · Computer Vision</strong></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1500&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=From+planning+evidence+to+reliable+agents;From+research+ideas+to+practical+AI+systems" alt="From planning evidence to reliable agents. From research ideas to practical AI systems." />
+
+<p>
+  <a href="mailto:youyaog@andrew.cmu.edu">
+    <img src="https://img.shields.io/badge/Email-youyaog%40andrew.cmu.edu-0078D4?style=flat-square" alt="Email: youyaog@andrew.cmu.edu" />
+  </a>
+  <a href="https://github.com/dashen2004">
+    <img src="https://img.shields.io/badge/GitHub-dashen2004-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: dashen2004" />
+  </a>
+</p>
+
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+## About Me
+
+I work on agent planning, reinforcement learning, and medical image analysis. I also build LLM applications for document understanding, knowledge retrieval, and diagram generation.
+
+My recent work connects formal planning methods with executable agents, learning-based decision-making with delivery optimization, and vision models with medical applications.
+
+## Education
+
+| University | Degree | Graduation |
+| :--- | :--- | :--- |
+| **Carnegie Mellon University** | Master of Information Technology Strategy | Expected Jan 2029 |
+| **University of Nottingham** | BSc (Hons) in Computer Science · **GPA: 3.83/4.0** | Jul 2026 |
+
+## Selected Research & Projects
+
+Research and academic projects at the **University of Nottingham Ningbo China (UNNC)**.
+
+### [GP2PL · Certified BDI Plan Libraries](https://github.com/daidaibunny/llm-bdi-pipeline)
+
+**Oct 2025 - Present · Manuscript submitted to AAMAS 2027**
+
+- Proposed an agent planning framework that compiles generalized planning behavior and domain knowledge into reusable, certified **AgentSpeak(L) BDI plan libraries**.
+- Used **LTLf-DFA controllers** to compose achievement goals and temporally extended goals.
+- Achieved **98.7% held-out achievement validity across 16 domains**.
+
+**Focus:** Generalized Planning · BDI Agents · Temporal Goals · Formal Certification
+
+### [Hybrid Truck-Drone Delivery Optimization](https://github.com/dashen2004/Reinforcement-Learing-Baesd-HybridTruck-Drone-Delivery-Optimization)
+
+**Jun 2025 - Jun 2026 · Published in [Drones (2026)](https://doi.org/10.3390/drones10070477)**
+
+- Formulated a **PPO-based decision framework** for dynamic truck-drone coordination.
+- Reduced delivery costs and demonstrated scalability across **Solomon benchmark instances**.
+
+**Focus:** Reinforcement Learning · PPO · Sequential Decision-Making · Logistics Optimization
+
+### [Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation](https://github.com/dashen2004/Edge-Enhanced-Dual-Stream-Transformer-for-Small-Polyp-Segmentation)
+
+**May 2025 - Present**
+
+- Designed a **Swin Transformer-based dual-stream segmentation model** with Laplacian edge extraction and cross-attention fusion.
+- Achieved **0.92 mDice on Kvasir-SEG**, with improved boundary detection for small polyps.
+
+**Focus:** Medical Image Segmentation · Swin Transformer · Boundary Modeling · MMSegmentation
+
+### [Logify · Logic Diagram Generation Software](https://github.com/dashen2004/Logify)
+
+**Sep 2024 - May 2025**
+
+- Developed an LLM-powered platform that converts natural-language descriptions into structured diagrams.
+- Fine-tuned **Qwen2.5-Coder-7B with LoRA** and integrated **Flask + Mermaid**, achieving **up to 89% conversion accuracy**.
+- **Software copyright:** Logify V1.0 · Registration No. **2025SR2334315** · Registered Dec 2025 · Copyright holder: **UNNC**.
+
+**Focus:** LLM Fine-Tuning · LoRA · Natural Language to Diagrams · Web Applications
+
+## Industry Experience
+
+### SenseTime · AI Solutions Engineer Intern
+
+**Shanghai, China · Oct 2024 - Jul 2026**
+
+- Developed a **medical-device document QA assistant**, including complex document parsing, data preprocessing, and RAG evaluation pipelines to improve retrieval and answer reliability.
+- Developed an **adverse-event information extraction platform** for medical documents, covering automated parsing, rule-based extraction, result verification, and structured data export.
+- Contributed to a **government administration system for Chenggong**, exploring a domain-specific agent that connects natural-language interaction with personnel, material, and operations management workflows.
+
+### Shanghai Big Data · Algorithm Engineer Intern
+
+**Shanghai, China · Aug 2024 - Oct 2024**
+
+- Developed an intelligent legal retrieval system for a **Smart Legislation platform**, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
+
+## Technical Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,flask,django,mysql,docker,git,linux,latex&amp;perline=12" alt="Python, C++, Java, PyTorch, TensorFlow, Flask, Django, MySQL, Docker, Git, Linux, and LaTeX" />
+</p>
+
+| Area | Technologies & Methods |
+| :--- | :--- |
+| **Programming** | Python · SQL · C/C++ · Java |
+| **AI & Machine Learning** | PyTorch · TensorFlow · scikit-learn · RAG · PPO · LoRA |
+| **Web & Data** | Flask · Django · Pandas · MySQL |
+| **Tools & Platforms** | Docker · Git · Linux · MMSegmentation · LaTeX |
+
+<details>
+<summary><strong>Community, Awards & Languages</strong></summary>
+
+### Community
+
+- **Student Representative**, Learning Community Forum, UNNC · 2024 - 2025  
+  Represented student perspectives on education and student experience initiatives.
+- **Chairman of the Board**, UNNC Music Association · May 2022 - May 2024  
+  Led association operations and coordinated campus music events, performers, and external partners.
+
+### Awards
+
+- **Successful Participant**, Mathematical Contest in Modeling (MCM) · 2025
+- **Meritorious Award**, Shuwei Cup International Mathematical Contest in Modeling · 2024
+
+### Languages
+
+- Mandarin Chinese and Shanghainese: Native
+- English: Fluent · TOEFL **104**
+
+</details>
