@@ -42,7 +42,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg" />
-      <img width="100%" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK (Ningbo campus) — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
+      <img width="100%" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
     </picture>
   </a>
 </p>
