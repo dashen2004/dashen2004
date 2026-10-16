@@ -25,7 +25,29 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-## Selected Work
+## Education
+
+<p align="center">
+  <a href="https://www.cmu.edu/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/cmu-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/education/cmu-light.svg" />
+      <img width="100%" src="./assets/education/cmu-light.svg" alt="Carnegie Mellon University — Master of Information Technology Strategy; Expected Jan. 2029; official red university logo" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.nottingham.ac.uk/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg" />
+      <img width="100%" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK (Ningbo campus) — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
+    </picture>
+  </a>
+</p>
+
+## Selected Projects
 
 <p align="center">Four projects across planning, perception, and intelligent systems. Open a card to explore the code.</p>
 
@@ -61,28 +83,6 @@
 </p>
 
 <p align="center"><a href="https://doi.org/10.3390/drones10070477">📄 Drones paper</a> &nbsp;·&nbsp; <a href="mailto:youyaog@andrew.cmu.edu">Get in touch</a></p>
-
-## Education
-
-<p align="center">
-  <a href="https://www.cmu.edu/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/cmu-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/education/cmu-light.svg" />
-      <img width="100%" src="./assets/education/cmu-light.svg" alt="Carnegie Mellon University — Master of Information Technology Strategy; Expected Jan. 2029; official red university logo" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.nottingham.ac.uk/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg" />
-      <img width="100%" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK (Ningbo campus) — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
-    </picture>
-  </a>
-</p>
 
 ## Work Experience
 
