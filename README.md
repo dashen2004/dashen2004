@@ -37,9 +37,9 @@
 <p align="center">
   <a href="https://www.nottingham.ac.uk/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg" />
-      <img width="100%" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg?v=82de7fe" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg?v=82de7fe" />
+      <img width="100%" src="./assets/education/nottingham-light.svg?v=82de7fe" alt="University of Nottingham, UK — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
     </picture>
   </a>
 </p>
@@ -86,9 +86,9 @@
 <p align="center">
   <a href="https://www.nottingham.edu.cn/en/index.aspx">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/unnc-ra-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/experience/unnc-ra-light.svg" />
-      <img width="400" src="./assets/experience/unnc-ra-light.svg" alt="UNNC — Research Assistant; Oct. 2026 – Present" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/unnc-ra-dark.svg?v=82de7fe" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/experience/unnc-ra-light.svg?v=82de7fe" />
+      <img width="400" src="./assets/experience/unnc-ra-light.svg?v=82de7fe" alt="UNNC — Research Assistant; Oct. 2026 – Present" />
     </picture>
   </a>
   <a href="https://www.sensetime.com/cn">
