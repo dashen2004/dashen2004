@@ -21,8 +21,7 @@
     <img src="https://img.shields.io/badge/QQ-17622027900-green?logo=tencentqq" />&emsp;
     <a href="https://space.bilibili.com/485774598?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-醒醒啊向前冲-ff69b4" /></a>&emsp;
     <a href="https://www.youtube.com/@高佑耀"><img src="https://img.shields.io/badge/YouTube-高佑耀-FF0000?logo=youtube&logoColor=white" /></a>&emsp;
-    <a href="mailto:youyaog@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-youyaog%40andrew.cmu.edu-EA4335?logo=gmail&logoColor=white" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=dashen2004&label=Profile%20views&color=0e75b6&style=flat" alt="dashen2004" />
+    <a href="mailto:youyaog@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-youyaog%40andrew.cmu.edu-EA4335?logo=gmail&logoColor=white" /></a>
   </div> 
   
 </div>
@@ -107,48 +106,27 @@
 
 ## Work Experience
 
-<a href="https://www.sensetime.com/cn">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/sensetime-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/logos/sensetime-light.svg" />
-    <img align="right" width="160" src="./assets/logos/sensetime-light.svg" alt="SenseTime / 商汤科技" />
-  </picture>
-</a>
-
-<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology</h3>
-
-<p><strong>AI Solutions Engineer Intern</strong><br><em>Oct. 2024 – Jul. 2026</em></p>
-
-**Smart Q&A for Medical Devices**
-
-- Document Parsing and Preprocessing: Developed a medical-device document QA assistant, owning complex document parsing and data preprocessing pipelines.
-- RAG Evaluation: Developed RAG evaluation pipelines to improve domain knowledge retrieval and answer reliability.
-
-**Adverse-Event Information Extraction from Medical Documents**
-
-- Platform Development: Developed a medical-document adverse-event information extraction platform, implementing automated document parsing, rule-based information extraction, result verification, and structured data export.
-
-**Government Administration System for Chenggong**
-
-- Domain-Specific Agent Exploration: Contributed to the development of a government administration system for Chenggong, exploring a domain-specific agent for personnel, material, and operations management by connecting natural-language interaction with government workflows to support information retrieval and business coordination.
-
-<a href="https://www.shdata.com/">
-  <img align="right" width="160" src="./assets/logos/shdata.svg" alt="Shanghai Big Data / 上海大数据股份" />
-</a>
-
-<h3 align="left">🔭 Shanghai Big Data</h3>
-
-<p><strong>Algorithm Engineer Intern</strong><br><em>Aug. 2024 – Oct. 2024</em></p>
-
-**Smart Legislation**
-
-- Intelligent Legal Retrieval: Developed an intelligent legal retrieval system for a Smart Legislation platform, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
-
-<h3 align="left">🎵 UNNC Music Association</h3>
-
-<p><strong>Chairman of the Board</strong><br><em>May. 2022 – May. 2024</em></p>
-
-- Led association operations and coordinated campus music events, performers, and external partners.
+<p align="center">
+  <a href="https://www.sensetime.com/cn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/sensetime-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/experience/sensetime-light.svg" />
+      <img width="400" src="./assets/experience/sensetime-light.svg" alt="SenseTime — AI Solutions Engineer Intern, Oct. 2024 – Jul. 2026; medical-device QA, RAG evaluation, adverse-event extraction, and contributions to Chenggong agent exploration" />
+    </picture>
+  </a>
+  <a href="https://www.shdata.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/shdata-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/experience/shdata-light.svg" />
+      <img width="400" src="./assets/experience/shdata-light.svg" alt="Shanghai Big Data — Algorithm Engineer Intern, Aug. 2024 – Oct. 2024; Smart Legislation retrieval with BGE-M3 embeddings and vector search" />
+    </picture>
+  </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/music-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/experience/music-light.svg" />
+      <img width="400" src="./assets/experience/music-light.svg" alt="UNNC Music Association — Chairman of the Board, May. 2022 – May. 2024; association operations, campus music events, performers and external partners" />
+    </picture>
+</p>
 
 ## Honors & Activities
 
