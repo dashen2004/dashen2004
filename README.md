@@ -22,36 +22,50 @@
     <a href="https://space.bilibili.com/485774598?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-醒醒啊向前冲-ff69b4" /></a>&emsp;
     <a href="https://www.youtube.com/@高佑耀"><img src="https://img.shields.io/badge/YouTube-高佑耀-FF0000?logo=youtube&logoColor=white" /></a>&emsp;
     <a href="mailto:youyaog@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-youyaog%40andrew.cmu.edu-EA4335?logo=gmail&logoColor=white" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=dashen2004&label=Profile%20views&color=0e75b6&style=flat" alt="dashen2004" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=dashen2004&label=Profile%20views&color=0e75b6&style=flat" alt="dashen2004" />
   </div> 
   
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<h3 align="left">🌱 Carnegie Mellon University | Master of Information Technology Strategy | Expected Jan. 2029📌</h3>
+<a href="https://www.cmu.edu/">
+  <img align="right" width="120" src="./assets/logos/cmu-red.png" alt="Carnegie Mellon University — red university logo" />
+</a>
+
+<h3 align="left">🌱 Carnegie Mellon University</h3>
+
+<p><strong>Master of Information Technology Strategy</strong><br><em>Expected Jan. 2029</em></p>
 
 **University of Nottingham | BSc (Hons) in Computer Science | Jul. 2026**
 
 - GPA: **3.83/4.0**.
 - Selected Courses: Machine Learning, Computer Vision, Artificial Intelligence Methods, Algorithms, Data Structures and Efficiency.
 
-<a href="https://www.shdata.com/" target="_blank">
-  <img align="right" width="121" src="https://cdn.shdata.com/images/globals/logo-w.png" />
+<a href="https://www.shdata.com/">
+  <img align="right" width="160" src="./assets/logos/shdata.svg" alt="Shanghai Big Data / 上海大数据股份" />
 </a>
 
-<h3 align="left">🔭 Shanghai Big Data | Algorithm Engineer Intern | Aug. 2024 – Oct. 2024📌</h3>
+<h3 align="left">🔭 Shanghai Big Data</h3>
+
+<p><strong>Algorithm Engineer Intern</strong><br><em>Aug. 2024 – Oct. 2024</em></p>
 
 **Smart Legislation**
 
 - Intelligent Legal Retrieval: Developed an intelligent legal retrieval system for a Smart Legislation platform, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
 
-<a href="https://www.sensetime.com/cn" target="_blank">
-  <img align="right" width="144" src="https://static.sensetime.com/images/st_logo_black.svg" />
+<a href="https://www.sensetime.com/cn">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/sensetime-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logos/sensetime-light.svg" />
+    <img align="right" width="160" src="./assets/logos/sensetime-light.svg" alt="SenseTime / 商汤科技" />
+  </picture>
 </a>
 
-<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology | AI Solutions Engineer Intern | Oct. 2024 – Jul. 2026📌</h3>
+<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology</h3>
+
+<p><strong>AI Solutions Engineer Intern</strong><br><em>Oct. 2024 – Jul. 2026</em></p>
 
 **Smart Q&A for Medical Devices**
 
@@ -66,8 +80,8 @@
 
 - Domain-Specific Agent Exploration: Contributed to the development of a government administration system for Chenggong, exploring a domain-specific agent for personnel, material, and operations management by connecting natural-language interaction with government workflows to support information retrieval and business coordination.
 
-<a href="https://www.nottingham.edu.cn/en/index.aspx" target="_blank">
-  <img align="right" width="196" src="https://www.nottingham.ac.uk/SiteElements/Images/uon-logo/UoN-Nottingham-Blue-mobile.svg" />
+<a href="https://www.nottingham.edu.cn/en/index.aspx">
+  <img align="right" width="176" src="./assets/logos/nottingham.svg" alt="University of Nottingham" />
 </a>
 
 <h3 align="left">👯 Reinforcement Learning-Based Hybrid Truck-Drone Delivery Optimization | Jun. 2025 – Jun. 2026📌</h3>
@@ -122,7 +136,7 @@
 - **Languages:** Mandarin Chinese (Native), Shanghainese (Native), English (Fluent; TOEFL 104).
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -163,41 +177,43 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&show_icons=true&locale=en&layout=compact" alt="dashen2004" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact" />
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Most-used languages on GitHub" />
+  </picture>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashen2004&show_icons=true&locale=en" alt="dashen2004" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en" />
+    <img width="480" src="https://github-readme-stats.vercel.app/api?username=dashen2004&amp;show_icons=true&amp;locale=en" alt="Youyao Gao's GitHub statistics" />
+  </picture>
+</p>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div style="display:flex; justify-content:center; position:relative;">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png"
-       width="144"
-       style="position:absolute; top:0; left:0;" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" width="12%" align="middle" alt="Left decorative illustration" />
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=light&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=dark&hide_border=true"
-         alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&amp;theme=dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&amp;theme=light&amp;hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&amp;theme=dark&amp;hide_border=true" width="72%" align="middle" alt="GitHub Streak Stats" />
   </picture>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png"
-       width="144"
-       style="position:absolute; top:0; right:0;" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" width="12%" align="middle" alt="Right decorative illustration" />
+</p>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashen2004&amp;theme=github_dark&amp;animation=draw&amp;duration=3&amp;name=Youyao%20Gao&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;chart_color=3fb950&amp;bg_color=0d1117&amp;border_color=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashen2004&amp;theme=github&amp;animation=draw&amp;duration=3&amp;name=Youyao%20Gao" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashen2004&amp;theme=github&amp;animation=draw&amp;duration=3&amp;name=Youyao%20Gao" alt="Youyao Gao's GitHub contribution activity over the past year" />
+  </picture>
+</p>
 
 <!-- just img 图片 -->
 <div align="center">
@@ -205,4 +221,4 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
