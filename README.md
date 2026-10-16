@@ -1,124 +1,190 @@
-<div align="center">
+<div align="center"> 
+   <!-- dynamic typing effect 动态打字效果 -->
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Stay%20Hungry%20Stay%20Foolish%EF%BC%81&center=true&size=27)](https://git.io/typing-svg)
 
-<h1>Hi, I'm Youyao Gao 高佑耀 👋</h1>
+  <div align="center">
+    <picture>
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    </picture>
+  </div>
+  
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
-<p><strong>AI Agents · Reinforcement Learning · Computer Vision</strong></p>
+  <h1 align="center">Hi 👋, I'm Youyao Gao.</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1500&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=From+planning+evidence+to+reliable+agents;From+research+ideas+to+practical+AI+systems" alt="From planning evidence to reliable agents. From research ideas to practical AI systems." />
+  <!-- profile logo 个人资料徽标 -->
 
-<p>
-  <a href="mailto:youyaog@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Email-youyaog%40andrew.cmu.edu-0078D4?style=flat-square" alt="Email: youyaog@andrew.cmu.edu" />
-  </a>
-  <a href="https://github.com/dashen2004">
-    <img src="https://img.shields.io/badge/GitHub-dashen2004-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: dashen2004" />
-  </a>
-</p>
-
+  <div>
+    <img src="https://img.shields.io/badge/WeChat-dashen_2004-07c180" />&emsp;
+    <img src="https://img.shields.io/badge/QQ-17622027900-green?logo=tencentqq" />&emsp;
+    <a href="https://space.bilibili.com/485774598?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-醒醒啊向前冲-ff69b4" /></a>&emsp;
+    <a href="https://www.youtube.com/@高佑耀"><img src="https://img.shields.io/badge/YouTube-高佑耀-FF0000?logo=youtube&logoColor=white" /></a>&emsp;
+    <a href="mailto:youyaog@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-youyaog%40andrew.cmu.edu-EA4335?logo=gmail&logoColor=white" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=dashen2004&label=Profile%20views&color=0e75b6&style=flat" alt="dashen2004" /> </p>
+  </div> 
+  
 </div>
 
-## About Me
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-I work on agent planning, reinforcement learning, and medical image analysis. I also build LLM applications for document understanding, knowledge retrieval, and diagram generation.
+<h3 align="left">🌱 Carnegie Mellon University | Master of Information Technology Strategy | Expected Jan. 2029📌</h3>
 
-My recent work connects formal planning methods with executable agents, learning-based decision-making with delivery optimization, and vision models with medical applications.
+**University of Nottingham | BSc (Hons) in Computer Science | Jul. 2026**
 
-## Education
+- GPA: **3.83/4.0**.
+- Selected Courses: Machine Learning, Computer Vision, Artificial Intelligence Methods, Algorithms, Data Structures and Efficiency.
 
-| University | Degree | Graduation |
-| :--- | :--- | :--- |
-| **Carnegie Mellon University** | Master of Information Technology Strategy | Expected Jan 2029 |
-| **University of Nottingham** | BSc (Hons) in Computer Science · **GPA: 3.83/4.0** | Jul 2026 |
+<a href="https://www.shdata.com/" target="_blank">
+  <img align="right" width="121" src="https://cdn.shdata.com/images/globals/logo-w.png" />
+</a>
 
-## Selected Research & Projects
+<h3 align="left">🔭 Shanghai Big Data | Algorithm Engineer Intern | Aug. 2024 – Oct. 2024📌</h3>
 
-Research and academic projects at the **University of Nottingham Ningbo China (UNNC)**.
+**Smart Legislation**
 
-### [GP2PL · Certified BDI Plan Libraries](https://github.com/daidaibunny/llm-bdi-pipeline)
+- Intelligent Legal Retrieval: Developed an intelligent legal retrieval system for a Smart Legislation platform, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
 
-**Oct 2025 - Present · Manuscript submitted to AAMAS 2027**
+<a href="https://www.sensetime.com/cn" target="_blank">
+  <img align="right" width="144" src="https://static.sensetime.com/images/st_logo_black.svg" />
+</a>
 
-- Proposed an agent planning framework that compiles generalized planning behavior and domain knowledge into reusable, certified **AgentSpeak(L) BDI plan libraries**.
-- Used **LTLf-DFA controllers** to compose achievement goals and temporally extended goals.
-- Achieved **98.7% held-out achievement validity across 16 domains**.
+<h3 align="left">🌱 Shanghai SenseTime Intelligent Technology | AI Solutions Engineer Intern | Oct. 2024 – Jul. 2026📌</h3>
 
-**Focus:** Generalized Planning · BDI Agents · Temporal Goals · Formal Certification
+**Smart Q&A for Medical Devices**
 
-### [Hybrid Truck-Drone Delivery Optimization](https://github.com/dashen2004/Reinforcement-Learing-Baesd-HybridTruck-Drone-Delivery-Optimization)
+- Document Parsing and Preprocessing: Developed a medical-device document QA assistant, owning complex document parsing and data preprocessing pipelines.
+- RAG Evaluation: Developed RAG evaluation pipelines to improve domain knowledge retrieval and answer reliability.
 
-**Jun 2025 - Jun 2026 · Published in [Drones (2026)](https://doi.org/10.3390/drones10070477)**
+**Adverse-Event Information Extraction from Medical Documents**
 
-- Formulated a **PPO-based decision framework** for dynamic truck-drone coordination.
-- Reduced delivery costs and demonstrated scalability across **Solomon benchmark instances**.
+- Platform Development: Developed a medical-document adverse-event information extraction platform, implementing automated document parsing, rule-based information extraction, result verification, and structured data export.
 
-**Focus:** Reinforcement Learning · PPO · Sequential Decision-Making · Logistics Optimization
+**Government Administration System for Chenggong**
 
-### [Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation](https://github.com/dashen2004/Edge-Enhanced-Dual-Stream-Transformer-for-Small-Polyp-Segmentation)
+- Domain-Specific Agent Exploration: Contributed to the development of a government administration system for Chenggong, exploring a domain-specific agent for personnel, material, and operations management by connecting natural-language interaction with government workflows to support information retrieval and business coordination.
 
-**May 2025 - Present**
+<a href="https://www.nottingham.edu.cn/en/index.aspx" target="_blank">
+  <img align="right" width="196" src="https://www.nottingham.ac.uk/SiteElements/Images/uon-logo/UoN-Nottingham-Blue-mobile.svg" />
+</a>
 
-- Designed a **Swin Transformer-based dual-stream segmentation model** with Laplacian edge extraction and cross-attention fusion.
-- Achieved **0.92 mDice on Kvasir-SEG**, with improved boundary detection for small polyps.
+<h3 align="left">👯 Reinforcement Learning-Based Hybrid Truck-Drone Delivery Optimization | Jun. 2025 – Jun. 2026📌</h3>
 
-**Focus:** Medical Image Segmentation · Swin Transformer · Boundary Modeling · MMSegmentation
+**Supervisor: Prof. Huan Jin**
 
-### [Logify · Logic Diagram Generation Software](https://github.com/dashen2004/Logify)
+- Reinforcement Learning Framework: Formulated a **PPO-based decision framework** for dynamic truck-drone coordination.
+- Performance Evaluation: Reduced delivery costs and demonstrated scalability across **Solomon benchmark instances**.
+- Publication: **[Drones, 2026](https://doi.org/10.3390/drones10070477)**.
+- Source Code: [GitHub](https://github.com/dashen2004/Reinforcement-Learing-Baesd-HybridTruck-Drone-Delivery-Optimization).
 
-**Sep 2024 - May 2025**
+<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025 – Present📌</h3>
 
-- Developed an LLM-powered platform that converts natural-language descriptions into structured diagrams.
-- Fine-tuned **Qwen2.5-Coder-7B with LoRA** and integrated **Flask + Mermaid**, achieving **up to 89% conversion accuracy**.
-- **Software copyright:** Logify V1.0 · Registration No. **2025SR2334315** · Registered Dec 2025 · Copyright holder: **UNNC**.
+**Supervisor: Prof. Fiseha Berhanu Tesema**
 
-**Focus:** LLM Fine-Tuning · LoRA · Natural Language to Diagrams · Web Applications
+- Model Development and Implementation: Designed a **Swin Transformer-based dual-stream segmentation model** with Laplacian edge extraction and cross-attention fusion.
+- Performance Evaluation: Achieved **0.92 mDice on Kvasir-SEG**, with improved boundary detection for small polyps.
+- Source Code: [GitHub](https://github.com/dashen2004/Edge-Enhanced-Dual-Stream-Transformer-for-Small-Polyp-Segmentation).
+- Still in progress.
 
-## Industry Experience
+<h3 align="left">🧠 GP2PL: Certified BDI Plan Libraries from Generalized Planning Evidence | Oct. 2025 – Present📌</h3>
 
-### SenseTime · AI Solutions Engineer Intern
+**Manuscript submitted to the International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2027)**
 
-**Shanghai, China · Oct 2024 - Jul 2026**
+- Agent Planning Framework: Proposed GP2PL, an agent planning framework that automatically compiles generalized planning behavior and domain knowledge into reusable, certified **AgentSpeak(L) BDI plan libraries**.
+- Temporal Goal Composition: Used **LTLf-DFA controllers** to compose achievement goals and temporally extended goals.
+- Performance Evaluation: Achieved **98.7% held-out achievement validity across 16 domains**.
+- Source Code: [GitHub](https://github.com/daidaibunny/llm-bdi-pipeline).
 
-- Developed a **medical-device document QA assistant**, including complex document parsing, data preprocessing, and RAG evaluation pipelines to improve retrieval and answer reliability.
-- Developed an **adverse-event information extraction platform** for medical documents, covering automated parsing, rule-based extraction, result verification, and structured data export.
-- Contributed to a **government administration system for Chenggong**, exploring a domain-specific agent that connects natural-language interaction with personnel, material, and operations management workflows.
+<h3 align="left">💡 Logic Diagram Generation Software – Logify | Sept. 2024 – May. 2025📌</h3>
 
-### Shanghai Big Data · Algorithm Engineer Intern
+- Model Development and Integration: Developed an LLM-powered diagram generation platform by fine-tuning **Qwen2.5-Coder-7B with LoRA** and integrating **Flask and Mermaid**.
+- Performance Evaluation: Achieved **up to 89% accuracy in converting natural-language descriptions into structured diagrams**.
+- Software Copyright: **Logify – Logic Diagram Generation Software, V1.0** | Registration No. **2025SR2334315** | **Dec. 2025** | Copyright Holder: **UNNC**.
+- Source Code: [GitHub](https://github.com/dashen2004/Logify).
 
-**Shanghai, China · Aug 2024 - Oct 2024**
+<h3 align="left">🏆 Honors and Awards📌</h3>
 
-- Developed an intelligent legal retrieval system for a **Smart Legislation platform**, using **BGE-M3 embeddings and vector search** to improve access to legal and policy documents.
+- **Successful Participant**, Mathematical Contest in Modeling (MCM) | **2025**.
+- **Meritorious Award**, Shuwei Cup International Mathematical Contest in Modeling | **2024**.
 
-## Technical Toolkit
+<h3 align="left">🎵 Leadership📌</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,flask,django,mysql,docker,git,linux,latex&amp;perline=12" alt="Python, C++, Java, PyTorch, TensorFlow, Flask, Django, MySQL, Docker, Git, Linux, and LaTeX" />
-</p>
+- **Student Representative**, Learning Community Forum (LCF), UNNC | **2024 – 2025**: Represented student perspectives and provided feedback on education and student experience initiatives.
+- **Chairman of the Board**, UNNC Music Association | **May. 2022 – May. 2024**: Led association operations and coordinated campus music events, performers, and external partners.
 
-| Area | Technologies & Methods |
-| :--- | :--- |
-| **Programming** | Python · SQL · C/C++ · Java |
-| **AI & Machine Learning** | PyTorch · TensorFlow · scikit-learn · RAG · PPO · LoRA |
-| **Web & Data** | Flask · Django · Pandas · MySQL |
-| **Tools & Platforms** | Docker · Git · Linux · MMSegmentation · LaTeX |
+<h3 align="left">🛠️ Skills📌</h3>
 
-<details>
-<summary><strong>Community, Awards & Languages</strong></summary>
+- **Programming Languages:** Python, SQL, C/C++, Java.
+- **AI and Machine Learning:** PyTorch, TensorFlow, scikit-learn, RAG, PPO, LoRA.
+- **Frameworks and Tools:** Pandas, Flask, Django, Docker, Git, Linux, MySQL, MMSegmentation, LaTeX.
+- **Languages:** Mandarin Chinese (Native), Shanghainese (Native), English (Fluent; TOEFL 104).
 
-### Community
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-- **Student Representative**, Learning Community Forum, UNNC · 2024 - 2025  
-  Represented student perspectives on education and student experience initiatives.
-- **Chairman of the Board**, UNNC Music Association · May 2022 - May 2024  
-  Led association operations and coordinated campus music events, performers, and external partners.
+<h3 align="left">Languages and Tools:</h3>
+<div>
+  
+<!-- gif -->
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-### Awards
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
 
-- **Successful Participant**, Mathematical Contest in Modeling (MCM) · 2025
-- **Meritorious Award**, Shuwei Cup International Mathematical Contest in Modeling · 2024
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
+</div>
 
-### Languages
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-- Mandarin Chinese and Shanghainese: Native
-- English: Fluent · TOEFL **104**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashen2004&show_icons=true&locale=en&layout=compact" alt="dashen2004" /></p>
 
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashen2004&show_icons=true&locale=en" alt="dashen2004" /></p>
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<div style="display:flex; justify-content:center; position:relative;">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png"
+       width="144"
+       style="position:absolute; top:0; left:0;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dashen2004&theme=dark&hide_border=true"
+         alt="GitHub Streak Stats" />
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png"
+       width="144"
+       style="position:absolute; top:0; right:0;" />
+</div>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dashen2004&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+<!-- just img 图片 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
