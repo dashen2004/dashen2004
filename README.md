@@ -85,24 +85,22 @@
 
 ## Education
 
-<a href="https://www.cmu.edu/">
-  <img align="right" width="96" src="./assets/logos/cmu-red.png" alt="Carnegie Mellon University — red university logo" />
-</a>
-
-<h3 align="left">🎓 Carnegie Mellon University</h3>
-
-<p><strong>Master of Information Technology Strategy</strong><br><em>Expected Jan. 2029</em></p>
-
-<a href="https://www.nottingham.edu.cn/en/index.aspx">
-  <img align="right" width="176" src="./assets/logos/nottingham.svg" alt="University of Nottingham" />
-</a>
-
-<h3 align="left">🎓 University of Nottingham</h3>
-
-<p><strong>BSc (Hons) in Computer Science</strong><br><em>Jul. 2026</em></p>
-
-- GPA: **3.83/4.0**.
-- Selected Courses: Machine Learning, Computer Vision, Artificial Intelligence Methods, Algorithms, Data Structures and Efficiency.
+<p align="center">
+  <a href="https://www.cmu.edu/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/cmu-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/education/cmu-light.svg" />
+      <img width="400" src="./assets/education/cmu-light.svg" alt="Carnegie Mellon University — Master of Information Technology Strategy; Expected Jan. 2029; official red university logo" />
+    </picture>
+  </a>
+  <a href="https://www.nottingham.ac.uk/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg" />
+      <img width="400" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK (Ningbo campus) — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
+    </picture>
+  </a>
+</p>
 
 ## Work Experience
 

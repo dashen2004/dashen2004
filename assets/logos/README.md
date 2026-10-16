@@ -10,6 +10,6 @@ These assets are stored locally so the profile does not depend on the universiti
 | Shanghai Big Data / SHData | [Company website](https://www.shdata.com/) · [SVG](https://www.shdata.com/Public/images/globals/logo.svg) |
 | University of Nottingham | [University website](https://www.nottingham.ac.uk/) · [SVG](https://www.nottingham.ac.uk/SiteElements/Images/uon-logo/UoN-Nottingham-Blue-mobile.svg) |
 
-Downloaded on 2026-10-16. The logos belong to their respective organizations.
+University and company logos downloaded on 2026-10-16. The original UNNC Music Association PNG (`unnc-music.png`) was supplied by the profile owner and is retained unchanged. The logos belong to their respective organizations.
 
 The SHData and Nottingham display files add padding and a background behind the original, unmodified vector artwork. Their original SVG files are retained alongside the display versions. SenseTime uses the official light/dark lettering variants through a picture element. The CMU PNG is the official red-square artwork.
