@@ -1,16 +1,4 @@
-<div align="center"> 
-   <!-- dynamic typing effect 动态打字效果 -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Stay%20Hungry%20Stay%20Foolish%EF%BC%81&center=true&size=27)](https://git.io/typing-svg)
-
-  <div align="center">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    </picture>
-  </div>
-  
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<div align="center">
 
   <h1 align="center">Hi 👋, I'm Youyao Gao.</h1>
 
@@ -34,15 +22,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="#selected-work">Selected Work</a> &nbsp;·&nbsp;
-  <a href="#education">Education</a> &nbsp;·&nbsp;
-  <a href="#work-experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#honors--activities">Honors</a> &nbsp;·&nbsp;
-  <a href="#technical-toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#github-activity">Activity</a>
-</p>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -51,6 +30,13 @@
 <p align="center">Four projects across planning, perception, and intelligent systems. Open a card to explore the code.</p>
 
 <p align="center">
+  <a href="https://github.com/daidaibunny/llm-bdi-pipeline">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/gp2pl-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/gp2pl-light.svg" />
+      <img width="400" src="./assets/cards/gp2pl-light.svg" alt="GP2PL — 98.7% held-out achievement validity across 16 domains; submitted to AAMAS 2027" />
+    </picture>
+  </a>
   <a href="https://github.com/dashen2004/Reinforcement-Learing-Baesd-HybridTruck-Drone-Delivery-Optimization">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/truck-drone-dark.svg" />
@@ -63,13 +49,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/polyp-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/polyp-light.svg" />
       <img width="400" src="./assets/cards/polyp-light.svg" alt="Small Polyp Segmentation — 0.92 mDice on Kvasir-SEG; ongoing" />
-    </picture>
-  </a>
-  <a href="https://github.com/daidaibunny/llm-bdi-pipeline">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/gp2pl-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/gp2pl-light.svg" />
-      <img width="400" src="./assets/cards/gp2pl-light.svg" alt="GP2PL — 98.7% held-out achievement validity across 16 domains; submitted to AAMAS 2027" />
     </picture>
   </a>
   <a href="https://github.com/dashen2004/Logify">
@@ -90,14 +69,17 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/education/cmu-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/education/cmu-light.svg" />
-      <img width="400" src="./assets/education/cmu-light.svg" alt="Carnegie Mellon University — Master of Information Technology Strategy; Expected Jan. 2029; official red university logo" />
+      <img width="100%" src="./assets/education/cmu-light.svg" alt="Carnegie Mellon University — Master of Information Technology Strategy; Expected Jan. 2029; official red university logo" />
     </picture>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.nottingham.ac.uk/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/education/nottingham-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/education/nottingham-light.svg" />
-      <img width="400" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK (Ningbo campus) — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
+      <img width="100%" src="./assets/education/nottingham-light.svg" alt="University of Nottingham, UK (Ningbo campus) — BSc (Hons) in Computer Science; Jul. 2026; GPA 3.83/4.0" />
     </picture>
   </a>
 </p>
@@ -105,6 +87,13 @@
 ## Work Experience
 
 <p align="center">
+  <a href="https://www.nottingham.edu.cn/en/index.aspx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/unnc-ra-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/experience/unnc-ra-light.svg" />
+      <img width="400" src="./assets/experience/unnc-ra-light.svg" alt="UNNC — Research Assistant; Oct. 2026 – Present" />
+    </picture>
+  </a>
   <a href="https://www.sensetime.com/cn">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/sensetime-dark.svg" />

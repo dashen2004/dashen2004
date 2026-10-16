@@ -1,24 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" fill="none" role="img" aria-labelledby="title desc">
-<title id="title">University of Nottingham, UK — Ningbo campus</title>
-<desc id="desc">University of Nottingham, UK; studied at the Ningbo campus. BSc (Hons) in Computer Science. Jul. 2026. GPA 3.83/4.0.</desc>
-<defs><clipPath id="card-clip"><rect x=".75" y=".75" width="638.5" height="318.5" rx="21"/></clipPath></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="220" viewBox="0 0 1120 220" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">University of Nottingham, UK — Ningbo campus</title><desc id="desc">University of Nottingham, UK. Ningbo campus. BSc (Hons) in Computer Science. Jul. 2026. GPA 3.83/4.0.</desc>
+<defs><clipPath id="card-clip"><rect x=".75" y=".75" width="1118.5" height="218.5" rx="21"/></clipPath></defs>
 <g clip-path="url(#card-clip)">
-<rect width="640" height="320" rx="22" fill="#0B1D30"/>
+<rect width="1120" height="220" rx="22" fill="#0B1D30"/>
 <path d="M24 1 H202" stroke="#FFFFFF" stroke-width="3" opacity=".58"/>
-<circle cx="628" cy="314" r="169" stroke="#FFFFFF" stroke-opacity=".05"/>
-<circle cx="628" cy="314" r="127" stroke="#FFFFFF" stroke-opacity=".04"/>
-<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-<text x="32" y="55" font-size="30" font-weight="700" letter-spacing="-.55" fill="#FFFFFF">University of</text>
-<text x="32" y="91" font-size="30" font-weight="700" letter-spacing="-.55" fill="#FFFFFF">Nottingham, UK</text>
-<text x="32" y="121" font-size="19" fill="#FFFFFF" fill-opacity=".8">Ningbo campus</text>
-<path d="M32 138 H382" stroke="#FFFFFF" stroke-opacity=".2"/>
-<text x="32" y="174" font-size="28" font-weight="600" fill="#FFFFFF">BSc (Hons) in</text>
-<text x="32" y="211" font-size="28" font-weight="600" fill="#FFFFFF">Computer Science</text>
-<text x="32" y="273" font-size="24" fill="#FFFFFF" fill-opacity=".87">Jul. 2026</text>
-<rect x="386" y="244" width="222" height="45" rx="22.5" fill="#FFFFFF" fill-opacity=".10" stroke="#FFFFFF" stroke-opacity=".22"/>
-<text x="497" y="273" font-size="23" font-weight="600" text-anchor="middle" fill="#FFFFFF">GPA 3.83/4.0</text>
-</g>
-<rect x="418" y="24" width="190" height="89" rx="10" fill="#FFFFFF"/><svg xmlns="http://www.w3.org/2000/svg" width="166" height="65" viewBox="0 0 171 63" fill="none" x="430" y="36">
+<circle cx="1123" cy="222" r="176" stroke="#FFFFFF" stroke-opacity=".05"/>
+<circle cx="1123" cy="222" r="131" stroke="#FFFFFF" stroke-opacity=".04"/>
+<path d="M814 42 V178" stroke="#FFFFFF" stroke-opacity=".18"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"><text x="208" y="66" font-size="32" font-weight="700" letter-spacing="-.6" fill="#FFFFFF">University of Nottingham, UK</text>
+<text x="209" y="99" font-size="23" fill="#FFFFFF" fill-opacity=".78">Ningbo campus</text>
+<text x="208" y="153" font-size="29" font-weight="500" fill="#FFFFFF">BSc (Hons) in Computer Science</text>
+<text x="850" y="87" font-size="29" font-weight="600" fill="#FFFFFF">Jul. 2026</text>
+<rect x="842" y="112" width="240" height="48" rx="24" fill="#FFFFFF" fill-opacity=".10" stroke="#FFFFFF" stroke-opacity=".22"/>
+<text x="962" y="143" font-size="25" font-weight="600" text-anchor="middle" fill="#FFFFFF">GPA 3.83/4.0</text></g>
+<rect x="24" y="66" width="152" height="88" rx="11" fill="#FFFFFF"/><svg xmlns="http://www.w3.org/2000/svg" width="136" height="60" viewBox="0 0 171 63" fill="none" x="32" y="80" preserveAspectRatio="xMidYMid meet">
 <path d="M168.497 46.2636V38.4687C168.497 37.4901 167.955 36.6803 166.636 36.6803C165.892 36.6803 165.351 36.8827 164.911 37.3214C165.046 37.6926 165.08 38.0638 165.08 38.8399V46.2973H162.577V38.4687C162.577 37.5576 162.34 36.6128 160.716 36.6128C159.904 36.6128 159.6 36.7477 159.16 36.9502V46.2973H156.657V35.9716C157.604 35.5667 158.957 35.0605 160.852 35.0605C162.408 35.0605 163.423 35.4317 164.065 35.9716C164.809 35.4317 165.79 35.0605 167.211 35.0605C169.85 35.0605 171 36.579 171 38.4687V46.2973H168.497V46.2636Z" fill="#10263b" />
 <path d="M142.111 46.2632V38.6033C142.111 37.5235 141.671 36.7474 140.25 36.7474C139.472 36.7474 138.931 36.9498 138.39 37.2873V46.2632H135.886V31.5508H138.39V35.6338C139.032 35.3301 139.98 35.1276 140.859 35.1276C143.599 35.1276 144.58 36.7811 144.58 38.4346V46.2632H142.111Z" fill="#10263b" />
 <path d="M111.632 33.6769C110.685 33.6769 110.177 33.0696 110.177 32.3609C110.177 31.6523 110.685 31.0449 111.632 31.0449C112.545 31.0449 113.086 31.6523 113.086 32.3609C113.086 33.0696 112.545 33.6769 111.632 33.6769Z" fill="#10263b" />
@@ -58,5 +53,5 @@
 </defs>
 </svg>
 </g>
-<rect x=".75" y=".75" width="638.5" height="318.5" rx="21" stroke="#344E68" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="1118.5" height="218.5" rx="21" stroke="#344E68" stroke-width="1.5"/>
 </svg>

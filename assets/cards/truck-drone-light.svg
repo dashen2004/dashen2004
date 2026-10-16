@@ -25,7 +25,7 @@
     <path d="M32 244 H608" stroke="#E9EFF7"/>
     <circle cx="37" cy="271" r="3.5" fill="#2563EB"/>
     <text x="49" y="276" font-size="13" font-weight="500" fill="#61718B">PPO   /   Dynamic coordination</text>
-    <text x="608" y="276" font-size="12" font-weight="600" text-anchor="end" fill="#2563EB" opacity=".55">01</text>
+    <text x="608" y="276" font-size="12" font-weight="600" text-anchor="end" fill="#2563EB" opacity=".55">02</text>
   </g>
 
   <path d="M454 188 C461 147 519 194 535 153 S572 103 603 118" fill="none" stroke="#2563EB" stroke-width="2" stroke-dasharray="5 6" opacity=".55"/>
